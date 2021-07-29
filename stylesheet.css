@@ -53,6 +53,11 @@ body {
    padding: 1px;
 }
 
+.picture {
+    text-align: center;
+    color: oldlace;
+}
+
 @media (min-width: 55em) {
     .columns {
         grid-auto-flow: column;
