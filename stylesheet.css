@@ -56,7 +56,14 @@ body {
 .picture {
     text-align: center;
     color: oldlace;
-    background: url(/workspace/FightingSkyMonkey/2019-03-16 10.46.38.jpg) no-repeat bottom right fixed;
+    height: 75vh;
+    padding: 15px;
+    opacity: 0.75;
+    background: url(/mainpageimgV1.jpg) no-repeat bottom right fixed;
+    background-size: cover;
+    justify-content: center;
+    position: inherit;
+
 }
 
 @media (min-width: 55em) {
