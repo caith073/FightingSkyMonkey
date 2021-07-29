@@ -18,11 +18,18 @@ body {
     padding: 1px;
 }
 
+
 .columns1 {
     background-color: aliceblue;   
     color: black; 
     margin: 1px;
     padding: 1px;
+}
+.columns1:hover {
+    background-color: black;
+    color: aliceblue;
+    transition: ease-in-out, 0.25s;
+    opacity: 0.75;
 }
 
 .columns2 {
@@ -32,6 +39,13 @@ body {
     padding: 1px;
 }
 
+.columns2:hover {
+    background-color: crimson;
+    color: bisque;
+    transition: ease-in-out, 0.25s;
+    opacity: 0.75;
+}
+
 .columns3 {
     background-color: cadetblue;
     color: darkred;
@@ -39,11 +53,24 @@ body {
     padding: 1px;
 }
 
+.columns3:hover {
+    background-color: darkred;
+    color: cadetblue;
+    transition: ease-in-out, 0.25s;
+    opacity: 0.75;
+}
+
 .columns4 {
     background-color: crimson;
     color: honeydew;
     margin: 1px;
     padding: 1px;
+}
+.columns4:hover {
+    background-color:honeydew;
+    color: crimson;
+    transition: ease-in-out, 0.25s;
+    opacity: 0.75;
 }
 
 .columns5 {
@@ -53,6 +80,12 @@ body {
    padding: 1px;
 }
 
+.columns5:hover {
+    background-color: midnightblue;
+    color: floralwhite;
+    transition: ease-in-out, 0.25s;
+    opacity: 0.75;
+}
 .picture {
     text-align: center;
     color: oldlace;
