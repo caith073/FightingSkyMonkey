@@ -5,6 +5,11 @@ body {
     padding: 0px;
 }
 
+.logo {
+    text-align: center;
+    color: mintcream;
+}
+
 .columns {
     display: grid;
     grid-auto-flow: row;
