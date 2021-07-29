@@ -22,8 +22,10 @@ body {
 .columns1 {
     background-color: aliceblue;   
     color: black; 
-    margin: 1px;
-    padding: 1px;
+    /*
+   margin: 1px;
+   padding: 1px;
+   --*/
 }
 .columns1:hover {
     background-color: black;
@@ -35,8 +37,10 @@ body {
 .columns2 {
     background-color: bisque;
     color: crimson;
-    margin: 1px;
-    padding: 1px;
+    /*
+   margin: 1px;
+   padding: 1px;
+   --*/
 }
 
 .columns2:hover {
@@ -49,8 +53,10 @@ body {
 .columns3 {
     background-color: cadetblue;
     color: darkred;
-    margin: 1px;
-    padding: 1px;
+    /*
+   margin: 1px;
+   padding: 1px;
+   --*/
 }
 
 .columns3:hover {
@@ -63,8 +69,10 @@ body {
 .columns4 {
     background-color: crimson;
     color: honeydew;
+    /*
     margin: 1px;
     padding: 1px;
+    --*/
 }
 .columns4:hover {
     background-color:honeydew;
@@ -76,8 +84,10 @@ body {
 .columns5 {
    background-color: floralwhite;
    color: midnightblue;
+   /*
    margin: 1px;
    padding: 1px;
+   --*/
 }
 
 .columns5:hover {
