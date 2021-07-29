@@ -66,6 +66,11 @@ body {
 
 }
 
+.footer {
+    text-align: center;
+    color: aliceblue;
+}
+
 @media (min-width: 55em) {
     .columns {
         grid-auto-flow: column;
