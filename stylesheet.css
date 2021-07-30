@@ -14,14 +14,15 @@ body {
     display: grid;
     grid-auto-flow: row;
     text-align: center;
-    margin: 1px;
-    padding: 1px;
+    margin: 0px;
+    padding: 0px;
 }
 
 
 .columns1 {
     background-color: aliceblue;   
     color: black; 
+    text-decoration: none;
     /*
    margin: 1px;
    padding: 1px;
