@@ -38,6 +38,7 @@ body {
 .columns2 {
     background-color: bisque;
     color: crimson;
+    text-decoration: none;
     /*
    margin: 1px;
    padding: 1px;
