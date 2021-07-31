@@ -111,13 +111,42 @@ body {
 
 }
 
-.footer {
-    text-align: center;
-    color: aliceblue;
+.fa {
+    text-decoration: none;
+    font: 30px;
+    background-color: #5176a6;
+    position: relative;  
+    height: 10vh;
+    margin: 5px;
+    padding: 5px;
+}
+.fa:hover {
+    text-decoration: none;
+    color: #d0d5d9;
+}
+
+.fa-facebook {
+    color: #ffffff;
+    
+}
+.fa-twitter {
+    color: #ffffff;
+}
+.fa-youtube {
+    color: #ffffff;
+}
+.fa-instagram {
+    color: #ffffff;
+}
+.fa-google {
+    color: #ffffff;
 }
 
 @media (min-width: 55em) {
     .columns {
         grid-auto-flow: column;
+    }
+    .fa {
+        text-align: center;
     }
 }
